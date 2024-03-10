@@ -7,7 +7,7 @@ Flux: GPU Mineable, 1000 coins to turn wallet into a staking node.
 Verus: CPU Minable, better with smaller devices and lower end cpus, 1000 coins to turn wallet into a staking node, built with komoodo tech.
 - https://www.coingecko.com/en/coins/verus-coin
 
-Gridcoin: Folding proteins for cancer and medical research, get paid their token for doing something to help the world for higher end cpus.
+Gridcoin: Folding proteins for cancer and medical research, get paid their token for doing something to help the world for higher end cpus. Cannot be used while CPU mining as it takes just as much resources.
 - https://gridcoin.us/guides/foldingathome.htm
 - https://www.coingecko.com/en/coins/gridcoin-research
 
