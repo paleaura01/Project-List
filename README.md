@@ -4,12 +4,12 @@
 Flux: GPU Mineable, 1000 coins to turn wallet into a staking node.
 - https://www.coingecko.com/en/coins/flux-zelcash
 
+Verus: CPU Minable, better with smaller devices and lower end cpus, 1000 coins to turn wallet into a staking node, built with komoodo tech.
+- https://www.coingecko.com/en/coins/verus-coin
+
 Gridcoin: Folding proteins for cancer and medical research, get paid their token for doing something to help the world for higher end cpus.
 - https://gridcoin.us/guides/foldingathome.htm
 - https://www.coingecko.com/en/coins/gridcoin-research
-
-Verus: CPU Minable, better with smaller devices and lower end cpus, 1000 coins to turn wallet into a staking node, built with komoodo tech.
-- https://www.coingecko.com/en/coins/verus-coin
 
 Golom: Rent out old machines that cant cpu/gpu mine anymore on regular networks as virtual machines instead, great service for aging hardware.
 - https://www.coingecko.com/en/coins/golem
