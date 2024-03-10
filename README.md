@@ -98,10 +98,10 @@ GRASS: Browser extension node that gives you tokens for data, still in beta but 
 Thorswap Earn Vaults: Built with HAVEN tech, earn rewards from swap fees into an autocompounding vault's native assets.
 - https://app.thorswap.finance/earn/BTC.BTC
 
-Kujira: Cool mechanism in its wallet that gives you dust from a ton of other projects for staking its native token kuji, they also have liqudity pools.
+Kujira: Cool mechanism in its wallet that gives you dust from a ton of other projects for staking its native token kuji which is not inflationary as it is earned through swap fees, they also have liqudity pools.
 - https://blue.kujira.network/stake
 
-Osmosis: The obvious choice for Liquidity Pools as Cosmos is a decentralized ecosystem with independant chains that scale, their token is also stakable.
+Osmosis: The obvious choice for Liquidity Pools as Cosmos is a decentralized ecosystem with independant chains that scale, their token is also stakable although it is inflationary.
 - https://app.osmosis.zone/
 
 
