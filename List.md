@@ -1,7 +1,3 @@
-# Project-List
-
-A list of all the useful crypto projects that actually do something.
-
 # Mining/Gaming:
  
 
@@ -86,7 +82,7 @@ IPking: VPN Data Node, host a node on your computer and collect tokens for the n
 PacketStream: VPN Data Node, host a node on your computer and collect tokens for the network traffic. Can be used while cpu/gpu mining.
 - Referral: https://packetstream.io/?psr=2QkL
 
-SWASH: Browser extension node that gives you tokens for data.
+SWASH: Browser extension node that gives you tokens for data, was in beta the last time i looked.
 - Referral: https://swashapp.io/referral/541208
 
 GRASS: Browser extension node that gives you tokens for data, still in beta but the tokens earned now count apparently.
