@@ -100,4 +100,6 @@ Kujira: Cool mechanism in its wallet that gives you dust from a ton of other pro
 Osmosis: The obvious choice for Liquidity Pools as Cosmos is a decentralized ecosystem with independant chains that scale, their token is also stakable although it is inflationary.
 - https://app.osmosis.zone/
 
+Yieldmos: Autostaking for Keplr wallet and Cosmos projects.
+- https://www.yieldmos.com/
 
